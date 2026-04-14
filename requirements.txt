@@ -1,0 +1,15 @@
+streamlit
+cryptography
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+plotly
+pandas
+requests
+numpy
+qrcode
+sqlalchemy
+pysqlite3
+scipy
+matplotlib
+python-dotenv
